@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "276515286584",
+    "firebase_url": "https://final-project-cc91d.firebaseio.com",
+    "project_id": "final-project-cc91d",
+    "storage_bucket": "final-project-cc91d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276515286584:android:6c0fbff76eaeb69e3d80cd",
+        "android_client_info": {
+          "package_name": "edu.uga.cs.finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276515286584-5hmelvq2k109pcdjvnpe5s67blehtcoe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.uga.cs.finalproject",
+            "certificate_hash": "1cbbc2c6cd84e04a093044d43402fa4c95174fa6"
+          }
+        },
+        {
+          "client_id": "276515286584-crcrh4cp3peftnt767hda2iamh0irfq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5hjrBuYiEbT0I1jNwBuLzQJSAJWbUOHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276515286584-crcrh4cp3peftnt767hda2iamh0irfq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

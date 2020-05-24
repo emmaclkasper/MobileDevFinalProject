@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Roommate Shopper</string>
+    <string name="title_activity_shopping_list_recycler_view">shoppingListRecyclerView</string>
+</resources>
